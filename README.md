@@ -1,7 +1,7 @@
 # Insertion-Sort-Project
 Patika-dev Insertion Sort Example Solutions
 
-# 1) Insertion Sort step-by-step
+# 1) Demonstrate Insertion Sort step-by-step for given array: [22,27,16,2,18,6] 
 
 [22,27,16,2,18,6] -> [2,27,16,22,18,6] -> [2,6,16,22,18,27] -> [2,6,16,18,22,27]
 
