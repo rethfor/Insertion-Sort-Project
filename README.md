@@ -11,9 +11,9 @@ O(n^2)
 
 # 3) Various time complexities according to different situations. 
 
-Average case: Desired number being at the MIDDLE => O(n^2)
-Worst case: Desired number being at the END => O(n^2)
-Best case: Desired number being at the START => O(n)
+Average case: Desired number being at the MIDDLE => O(n^2) \n
+Worst case: Desired number being at the END => O(n^2) \n
+Best case: Desired number being at the START => O(n) \n
 
 # 4) After sort operation, what case corresponds to searching for 18
 Ordered array is [2,6,16,18,22,27] and since 18 being in the middle, it is an average case.,
